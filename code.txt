@@ -1,1 +1,4 @@
-hi hello ajay 
+#!/bin/bash
+echo "hello ajay"
+echo "this is your code"
+ 
