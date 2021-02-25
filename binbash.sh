@@ -1,6 +1,6 @@
 #!/bin/bash
 systemctl
 echo "shows all services"
-systemctl | grep -v running  > /c/Users/Administrator/Documents/devops/bitbash.txt
+systemctl | grep -v running  
 echo "except running shows everything"
 
